@@ -1,0 +1,5 @@
+# Run `python -m pip freeze > requirements.txt` from your activated venv
+# Example minimal deps used by this project
+Django>=4.2
+djangorestframework
+Pillow
