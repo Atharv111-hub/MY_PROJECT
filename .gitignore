@@ -45,3 +45,4 @@ staticfiles/
 # OS files
 .DS_Store
 Thumbs.db
+my_project/
